@@ -1,82 +1,112 @@
-# 💻 Kunj Desai — Portfolio Website
-Welcome to my personal portfolio website built with **React.js**, **Framer Motion**, and **modern UI design** principles.
-It showcases my work, projects, skills, and journey as a developer passionate about **AI, ML, and Web Technologies**.
+# Vedant Desai - Portfolio Website
 
-🌐 **Website:** [[[kunj-Portfolio]]](https://kunj-desai.vercel.app/)
+Welcome to my personal portfolio website built with React, Framer Motion, and a modern dark premium UI design.
+It showcases my projects, skills, resume, blog notes, gallery, and contact channels as a developer focused on full-stack web experiences and practical software systems.
 
-🖼️ **Screenshots**
-<img width="1902" height="994" alt="Screenshot 2025-11-03 232447" src="https://github.com/user-attachments/assets/6f78ceb0-363c-41e8-9eb9-a26fa814e8ac" />
-<img width="1894" height="992" alt="image" src="https://github.com/user-attachments/assets/8a6eeff0-3ebc-446c-a1ac-5f1a02279ac8" />
-<img width="1903" height="1044" alt="Screenshot 2025-11-04 153204" src="https://github.com/user-attachments/assets/355b1c4c-83e6-4465-9081-bff34bb3ad3b" />
----
+Website: Coming soon
 
-## 🚀 Features
-
-* 🎨 **Modern UI/UX** with black-based aesthetic theme
-* ⚡ Smooth **Framer Motion** animations
-* 💼 **Projects, Resume, and Contact sections**
-* 🧠 Tech-focused portfolio highlighting AI/ML projects
-* 📨 Functional contact form powered by **EmailJS**
-* 🧩 Responsive design for all screen sizes
+Repository: https://github.com/VEDANTDESAI2409/My_Potfolio.git
 
 ---
 
-## 🛠️ Tech Stack
+## Features
 
-| Category            | Tools / Libraries                        |
-| ------------------- | ---------------------------------------- |
-| **Frontend**        | React.js, HTML5, CSS3, JavaScript (ES6+) |
-| **Styling**         | Tailwind CSS / Custom CSS                |
-| **Animation**       | Framer Motion                            |
-| **Contact Form**    | EmailJS                                  |
-| **Version Control** | Git & GitHub                             |
-| **Deployment**      | Vercel / Netlify                         |
+* Premium dark portfolio theme with polished visual hierarchy
+* Smooth page transitions and Framer Motion animations
+* Responsive layouts for desktop, laptop, tablet, and mobile
+* Centralized editable portfolio data in `src/data/portfolioData.js`
+* Project showcase with technology tags and GitHub links
+* Skills, resume, about, blog, gallery, and contact pages
+* Professional social links section for GitHub, LinkedIn, WhatsApp, Instagram, Facebook, and Email
+* Functional contact form powered by EmailJS
+* Resume download and PDF preview support
 
 ---
 
-## ⚙️ Setup Instructions
+## Tech Stack
+
+| Category | Tools / Libraries |
+| --- | --- |
+| Frontend | React, JavaScript, HTML, CSS |
+| Build Tool | Vite |
+| Animation | Framer Motion |
+| Icons | Lucide React, React Icons |
+| Contact Form | EmailJS |
+| Version Control | Git and GitHub |
+| Deployment | Vercel / Netlify compatible |
+
+---
+
+## Main Project Data
+
+Most portfolio content is editable from:
+
+```text
+src/data/portfolioData.js
+```
+
+Update that file to change personal information, hero text, projects, skills, certificates, blogs, resume details, contact information, and social links without editing page components.
+
+---
+
+## Setup Instructions
 
 To run this project locally:
 
 ```bash
-# 1️⃣ Clone the repository
-git clone https://github.com/kunj2803/kunjdesai-portfolio.git
+# Clone the repository
+git clone https://github.com/VEDANTDESAI2409/My_Potfolio.git
 
-# 2️⃣ Navigate to project directory
-cd kunjdesai-portfolio
+# Navigate to project directory
+cd Vedant_Portfolio_Website
 
-# 3️⃣ Install dependencies
+# Install dependencies
 npm install
 
-# 4️⃣ Run development server
-npm start or npm run dev
+# Run development server
+npm run dev
 ```
 
-Now open [http://localhost:3000](http://localhost:3000) in your browser 🚀
+Then open the local URL shown in your terminal, usually:
+
+```text
+http://localhost:5173
+```
 
 ---
 
-## 📬 Contact
+## Build
 
-If you’d like to collaborate or just say hi 👋, feel free to reach out!
+Create a production build:
 
-* 📧 **Email:** [kunjd2803@gmail.com](mailto:kunjd2803@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/kunj-desai-07717b293](https://www.linkedin.com/in/kunj-desai-07717b293/)
+```bash
+npm run build
+```
 
----
+Preview the production build locally:
 
-## 🌟 Deployment
-
-Deployed seamlessly on **Vercel** for continuous integration and fast CDN delivery.
-Every push to the `main` branch triggers an automatic rebuild and deployment.
-
----
-
-### 🏁 License
-
-This project is open source and available under the [MIT License](LICENSE).
-Feel free to fork, use, and build upon it ⭐
+```bash
+npm run preview
+```
 
 ---
 
-> *“Showcasing my work and passion through technology 💻”*
+## Contact
+
+Email: vedantdesai2409@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/vedant-desai-350181321/
+
+GitHub: https://github.com/VEDANTDESAI2409
+
+Location: Surat, Gujarat, India
+
+---
+
+## License
+
+This project is open source and available under the MIT License.
+
+---
+
+Built with React by Vedant Desai.
