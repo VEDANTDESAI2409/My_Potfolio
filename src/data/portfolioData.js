@@ -131,7 +131,7 @@ export const projects = [
     image: "/portfolio.jpg",
     tech: ["React", "Framer Motion", "CSS"],
     live: "",
-    code: "https://github.com/VEDANTDESAI2409/Vedant_Portfolio_Website.git",
+    code: "https://github.com/VEDANTDESAI2409/My_Potfolio.git",
   },
   {
     title: "Smart Parking System",
